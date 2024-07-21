@@ -1,7 +1,7 @@
 # openinApp
 
 ## Overview
-**This repository documents the testing process for the OpeninApp application, covering Functional Bugs, Designrelated Bugs, test cases for Top secret links and Affilinks**
+**This repository documents the testing process for the OpeninApp application, covering Functional Bugs, Design related Bugs, test cases for Top secret links and Affilinks**
 
 ## Contents
 
