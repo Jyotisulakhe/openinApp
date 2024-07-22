@@ -1,4 +1,4 @@
-# openinApp
+# OpeninApp
 
 ## Overview
 **This repository documents the testing process for the OpeninApp application, covering Functional Bugs, Design related Bugs, test cases for Top secret links and Affilinks**
@@ -9,8 +9,8 @@
 - **Bug Reports**
 
 ## Bug Reports
-- **Functional Bugs:** I found 9 functional Bugs
-- **Design related Bugs:** I found 5 Design related Bugs
+- **Functional Bugs:** I found 9 functional Bugs on OpeninApp application.
+- **Design related Bugs:** I found 5 Design related Bugs on OpeninApp application.
 ## Test Cases 
 - **Top Secret Links:** I Tested Top Secret Links page using 67 test cases for insuring functionalities of Top Secret Links page.
   
