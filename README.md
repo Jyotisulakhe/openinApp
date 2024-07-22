@@ -26,4 +26,19 @@
 - **End Date:** [21 July 2024]
 
 
+
+
 ![open](https://github.com/user-attachments/assets/609ba031-62f6-4f06-ac42-f33afbfbe4eb)
+
+
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- **Name:** Jyoti Sulakhe
+- **Email:** jyotisulakhe123@gmail.com
+- **GitHub:** https://github.com/Jyotisulakhe
+
+
+Thank you for visit, and giving your valuable time.
