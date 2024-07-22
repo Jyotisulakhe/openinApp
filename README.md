@@ -8,8 +8,14 @@
 - **Test Cases**
 - **Bug Reports**
 
-
-
+## Bug Reports
+- **Functional Bugs:** I found 9 functional Bugs
+- **Design related Bugs:** I found 5 Design related Bugs
+## Test Cases 
+- **Top Secret Links:** I Tested Top Secret Links page using 67 test cases for insuring functionalities of Top Secret Links page.
+  
+- **Top Secret Links:** I Tested Affilinks page using 41 test cases for insuring functionalities of Affilinks.
+- 
 ## Objective: 
 **Ensure the functionality and usability of the OpeninApp Application.**
 
